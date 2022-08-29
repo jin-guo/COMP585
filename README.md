@@ -10,10 +10,10 @@ The syllabus is mostly inherited from the previous years. Will be updated until 
 | Class Time    | MW 01:05 pm-02:25 pm | 
 | TA Office Hours    | TBD | 
 | Location      | ENGMC 103  |
-| Discussion Forum | TBD |
+| Discussion Forum | Slack (link on MyCourses) |
 
 
-- I normally design many in-class activities for upper-level classes to motivate discussion and collaborative learning. However, given the risks of going to a classroom and other constraints you might have, I will allow people to join remotely through Zoom for the first few weeks. The zoom session will also be recorded.  We will adjust as the semester goes.
+- The lectures are comprised of many in-class activities to motivate discussion and collaborative learning. In-person participation is required.
 
 
 ## Description
@@ -35,7 +35,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 |  Assessment Method | Weight |
 | :---: | :---: |
-|  Participation (inclass and online) | 10% |
+|  Participation | 10% |
 |  Assignment |  60% |
 |  Final Project | 30% |
 
