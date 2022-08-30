@@ -13,7 +13,9 @@ The syllabus is mostly inherited from the previous years. Will be updated until 
 | Discussion Forum | Slack (link on MyCourses) |
 
 
-- The lectures are comprised of many in-class activities to motivate discussion and collaborative learning. In-person participation is required.
+- The lectures consist of many in-class activities to motivate discussion and collaborative learning. **In-person participation is required**.
+- Occasionally, if there are unforeseen reasons that prevent you from joining the lectures in person, we will try to accommodate. Please contact us prior to the lecture.
+
 
 
 ## Description
@@ -36,8 +38,9 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |  Assessment Method | Weight |
 | :---: | :---: |
 |  Participation | 10% |
-|  Assignment |  60% |
-|  Final Project | 30% |
+|  Reading Report | 10% |
+|  Assignment |  45% |
+|  Final Project | 35% |
 
 - Any form of plagiarism, cheating is strictly banned during midterm or final exam. Integrity is crucial to this course and your future career. Any violation against academic integrity will be taken very seriously. For more information, please refer [here](https://www.mcgill.ca/students/srr/academicrights/integrity).
 
