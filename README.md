@@ -7,8 +7,8 @@ The syllabus is mostly inherited from the previous years. Will be updated until 
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | TA | [Deeksha Arya](https://cs.mcgill.ca/~darya2) |
-| Class Time    | MW 01:05 pm-02:25 pm | 
-| TA Office Hours    | TBD | 
+| Class Time    | MW 01:05 pm-02:25 pm |
+| TA Office Hours    | TBD |
 | Location      | ENGMC 103  |
 | Discussion Forum | Slack (link on MyCourses) |
 
@@ -51,7 +51,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
 |1	|  31 Aug  | [Introduction](Slides/1-Intro.pdf) | BIS book: Chapter 1, 2 <br> TIS book: Intro ([Onedrive](https://mcgill-my.sharepoint.com/:b:/g/personal/jin_guo_mcgill_ca/EVxp4i8fWBdPjW7wE2vxxSQB6uJ2dQZV-Y1eMOf9fZn6CQ?e=80avDh)) |  |
-|2	|  7 Sep  | Intelligent Systems and Software Engineering  | Human Compatible: Intelligence ([Onedrive](https://mcgill-my.sharepoint.com/:b:/g/personal/jin_guo_mcgill_ca/EWpJNhlrUy1Bm8_VZVEFP1YBZWPLz07VUSaaBRV1o65j9w?e=mmyjQO)) <br> [Quality Attributes](https://resources.sei.cmu.edu/asset_files/technicalreport/1995_005_001_16427.pdf)| |
+|2	|  7 Sep  | [Intelligent Systems and Software Engineering](Slides/2-IS_SE.pdf)  | Human Compatible: Intelligence ([Onedrive](https://mcgill-my.sharepoint.com/:b:/g/personal/jin_guo_mcgill_ca/EWpJNhlrUy1Bm8_VZVEFP1YBZWPLz07VUSaaBRV1o65j9w?e=mmyjQO)) <br> [Quality Attributes](https://resources.sei.cmu.edu/asset_files/technicalreport/1995_005_001_16427.pdf)| |
 |3	|  12 Sep  | ML Model Quality| BIS book: Chapter 19, 20 <br>[Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)<br>[Model Cards for Model Reporting](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596?casa_token=18FG8CITJy4AAAAA:ioP5uVyMqxHYfdMum0ZFqzftEHa9_ddDXLHNau9X_ZiGCrzHXE4DVSpRDK6mARu6iEywkrEaO_cT) |  |
 |4	|  14 Sep  | From Model to System | [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)<br>[Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)<br> TIS book: Chapter 4 Why Systems Suprise Us ([Onedrive](https://mcgill-my.sharepoint.com/:b:/g/personal/jin_guo_mcgill_ca/EbxmmASBbx9KsdwGgZ2ZULQBH2oMwV3TYp103WY7cWXAPg?e=hXFdgw)) |  |
 |5	|  19 Sep  | Data Acquisition & Management | BIS book: Chapter 9 <br>[A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |
