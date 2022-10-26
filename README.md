@@ -8,7 +8,6 @@ The syllabus is mostly inherited from the previous years. Will be updated until 
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | TA | [Deeksha Arya](https://cs.mcgill.ca/~darya2) |
 | Class Time    | MW 01:05 pm-02:25 pm |
-| TA Office Hours    | TBD |
 | Location      | ENGMC 103  |
 | Discussion Forum | Slack (link on MyCourses) |
 
