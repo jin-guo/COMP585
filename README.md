@@ -65,7 +65,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |14	|  24 Oct  |  [Guest Lecture by Jazlyn Hellman - Human Centered Design](Slides/human_centered_design.pdf) | ||
 |15	|  26 Oct  |  Human Centered Design (cont.) |||
 |16	|  31 Oct  |  [Design for Human-AI Interaction](Slides/10-HAI.pdf) | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) <br> [Human-Centered Artificial Intelligence: Three Fresh Ideas](https://aisel.aisnet.org/thci/vol12/iss3/1/)| Assignment 2 (due Nov 9th)|
-|17	|  2 Nov  | M2 Presentation |||
+|17	|  2 Nov  | M2 Presentation || Project M3 (Due Nov 24th))|
 |18	|  7 Nov  |  Design - Decision-making | [The Principles and Limits of Algorithm-in-the-Loop Decision Making](https://scholar.harvard.edu/files/bgreen/files/19-cscw.pdf)<br>[Judgment under uncertainty: Heuristics and biases](https://www.jstor.org/stable/pdf/1738360.pdf?casa_token=PEUwAsY9bNoAAAAA:i7KvVWYA73fJzugepP9xnVfBc_tCv1TWq884garHfyiwpR0kooepIGbSSfu__bxvaMYyMxTwGpCTCfzWrRXJI5-ghi44wtwX_WrGiSdQ2fKla6PhPH8) |  |
 |19	|  9 Nov  |Design - Inclusion  | [Disability-first Dataset Creation: Lessons from Constructing a Dataset for Teachable Object Recognition with Blind and Low Vision Data Collectors](https://www.microsoft.com/en-us/research/publication/disability-first-datasets/)<br>[Design Values: Hard-Coding Liberation?](https://design-justice.pubpub.org/pub/3h2zq86d/release/1) |  |
 |20	|  14 Nov  | Safety|[Autonomous Vehicle Safety: An Interdisciplinary Challenge](https://ieeexplore.ieee.org/abstract/document/7823109)<br>[An Analysis of ISO 26262: Using Machine Learning Safely in Automotive Software](https://arxiv.org/pdf/1709.02435.pdf) | |
