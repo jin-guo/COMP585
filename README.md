@@ -73,7 +73,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |22	|  21 Nov   | Lecture Canceled | | |
 |23	|  23 Nov  |  [Creativity](Slides/15-Creativity.pdf) | [Creativity support tools: accelerating discovery and innovation](https://dl.acm.org/doi/10.1145/1323688.1323689)<br>[AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition](https://dl.acm.org/doi/10.1145/3411764.3445219)| |  |
 |24	|  28 Nov | [Security](Slides/16-Security.pdf) |[SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf) <br> [The AI-Based Cyber Threat Landscape: A Survey](https://dl.acm.org/doi/abs/10.1145/3372823) | Assignment 3 (due Dec 5th)|
-|25	|  30 Nov | Privacy and Wrap Up | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| |
+|25	|  30 Nov | [Privacy and Wrap Up](Slides/17-Privacy.pdf) | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| |
 |26	|  5 Dec  | Presentation | |  |
  
 
