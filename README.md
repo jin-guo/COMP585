@@ -1,4 +1,4 @@
-# [COMP585_Fall2022] Intelligent Software Systems
+# [COMP585_Fall2023] Intelligent Software Systems
 
 The syllabus is mostly inherited from the previous years. Will be updated until the start of the semester.
 
