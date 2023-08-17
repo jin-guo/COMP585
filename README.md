@@ -1,7 +1,5 @@
 # [COMP585_Fall2023] Intelligent Software Systems
 
-The syllabus is mostly inherited from the previous years. Will be updated until the start of the semester.
-
 ## General Information
 |||
 | :---: | ------------- |
@@ -14,7 +12,6 @@ The syllabus is mostly inherited from the previous years. Will be updated until 
 
 - The lectures consist of in-class activities to motivate discussion and collaborative learning. **In-person participation is required and those activites are graded**.
 - Occasionally, if there are unforeseen reasons that prevent you from joining the lectures in person, we will try to accommodate. Please contact us prior to the lecture.
-
 
 
 ## Description
@@ -47,8 +44,8 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 
 
-## Schedule (Tentative)
-*Subject to adjustments*
+## Schedule
+*This schedule is subject to adjustments and will be updated regularly.*
 
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
