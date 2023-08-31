@@ -10,9 +10,18 @@
 | Discussion Forum | Slack (link on MyCourses) |
 
 
-- The lectures consist of in-class activities to motivate discussion and collaborative learning. **In-person participation is required and those activites are graded**.
-- Occasionally, if there are unforeseen reasons that prevent you from joining the lectures in person, we will try to accommodate. Please contact us prior to the lecture.
+## Policies
 
+### Attendence
+The lectures consist of in-class activities to motivate discussion and collaborative learning. **In-person participation is required and those activites are graded**. Occasionally, if there are unforeseen reasons that prevent you from joining the lectures in person, we will try to accommodate. Please contact us prior to the lecture.
+
+### Communication
+ 
+The University is committed to maintaining teaching and learning spaces that are respectful and inclusive for all. To this end, offensive, violent, or harmful language arising in course contexts may be cause for disciplinary action under the Article 10 of the Code of Student Conduct and Disciplinary Procedures and Section 2.7 of the Policy on Harassment, Sexual Harassment, and Discrimination Prohibited by Law.
+
+### Post-Coronavirus-Pandemic Public Health issues
+ 
+The Quebec government ( https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus ) provides the following guidelines for educational institutions (as of August 2023). Wearing masks is not required, however, if you are experiencing cough, sore throat, or nasal congestion it is recommended that you wear a mask and, as much as possible, keep your distance from others and advise them you may be contagious. In the case of a fever, remain at home.  
 
 ## Description
 This course is going to explore how to design and build an intelligent system from a software engineering perspective, from requirement gathering and analysis to deployment and maintenance. We will also touch AI ethics and its implications to design.
