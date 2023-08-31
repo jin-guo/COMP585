@@ -27,8 +27,8 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 |  Assessment Method | Weight |
 | :---: | :---: |
-|  Activities | 20% |
-|  Assignment |  40% |
+|  Activities | 25% |
+|  Assignment |  35% |
 |  Project | 40% |
 
 - Any form of plagiarism, cheating is strictly banned during midterm or final exam. Integrity is crucial to this course and your future career. Any violation against academic integrity will be taken very seriously. For more information, please refer [here](https://www.mcgill.ca/students/srr/academicrights/integrity).
