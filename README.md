@@ -62,15 +62,15 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |2	|  5 Sep  | Human Intelligence and Intelligent Systems  | Human Compatible: Intelligence| |
 |3	|  7 Sep  | ML Model Quality| [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)<br>[Model Cards for Model Reporting](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596?casa_token=18FG8CITJy4AAAAA:ioP5uVyMqxHYfdMum0ZFqzftEHa9_ddDXLHNau9X_ZiGCrzHXE4DVSpRDK6mARu6iEywkrEaO_cT) | Project M1 release (Due Sep 29th) |
 |4	|  12 Sep  | From Model to System | [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)<br>[Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)<br> TIS book: Chapter 4 Why Systems Suprise Us | | Project Composition Finalized |
-|5	|  14 Sep  | Data Acquisition & Management |  |  |
+|5	|  14 Sep  | Data  Management | [Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf) |  |
 |6	|  19 Sep  | Project QA |  |
 |7	|  21 Sep  | Human Need and Requirements| [Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)<br>[Keynote talk by Amy Ko at RE 2021](https://youtu.be/yf1wfyfgXvA)|  |
 |8	|  26 Sep  | Human Need and Requirements |  | Assignment 1 release (Due Oct 13th) |
-|9	|  28 Sep  | Quality beyond Model - Data | [Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf)| |  |
+|9	|  28 Sep  | Team and Collaboration | [Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process](https://www.cs.cmu.edu/~ckaestne/pdf/icse22_seai.pdf) <br> [Data Scientists in Software Teams:State of the Art and Challenges](https://andrewbegel.com/papers/data-scientists.pdf) | |
 |10	|  3 Oct  | M1 Presentation | |  Project M2 (Due Oct 27th) |
 |11	|  5 Oct  | Quality beyond Model - System | BIS book: Chapter 15 <br> [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) | | |
-|12	|  12 Oct  | Team and Collaboration | [Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process](https://www.cs.cmu.edu/~ckaestne/pdf/icse22_seai.pdf) <br> [Data Scientists in Software Teams:State of the Art and Challenges](https://andrewbegel.com/papers/data-scientists.pdf) | |
-|13	|  17 Oct  | Design for Human-AI Interaction | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) <br> [Human-Centered Artificial Intelligence: Three Fresh Ideas](https://aisel.aisnet.org/thci/vol12/iss3/1/) |  |
+|12	|  12 Oct  | Design for Human-AI Interaction | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) <br> [Human-Centered Artificial Intelligence: Three Fresh Ideas](https://aisel.aisnet.org/thci/vol12/iss3/1/) |  |
+|13	|  17 Oct  | Design for Human-AI Interaction | |
 |14	|  19 Oct  | Inclusive Design | [Disability-first Dataset Creation: Lessons from Constructing a Dataset for Teachable Object Recognition with Blind and Low Vision Data Collectors](https://www.microsoft.com/en-us/research/publication/disability-first-datasets/)<br>[Design Values: Hard-Coding Liberation?](https://design-justice.pubpub.org/pub/3h2zq86d/release/1) | | Assignment 2 release (Due Nov 8th)|
 |15	|  24 Oct  | Project QA|||
 |16	|  26 Oct  |  Fairness  | [The (Im)possibility of fairness: different value systems require different mechanisms for fair decision making](https://dl.acm.org/doi/10.1145/3290605.3300830)<br>[Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)| |
@@ -81,7 +81,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |21	|  16 Nov   |Creativity | | |
 |22 |  21 Nov  | Project QA if needed | Teams working on finalizing projects and assignments|  |
 |23	|  23 Nov | Project Final Presentation | |
-|24	|  28 Nov | Assignment presentation | | |
+|24	|  28 Nov | Project/Assignment presentation | | |
 |25	|  5 Dec  | Assignment presentation | |  |
  
 
