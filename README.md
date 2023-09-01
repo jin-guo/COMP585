@@ -58,7 +58,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
-|1	|  31 Aug  | [Introduction](Slides/1-Intro.pdf) | TIS book: Intro |  |
+|1	|  31 Aug  | [Introduction](Slides/1-Intro.pdf) | TIS book: Intro |  Assignment 0 release (Due Sep 14th)|
 |2	|  5 Sep  | Human Intelligence and Intelligent Systems  | Human Compatible: Intelligence| |
 |3	|  7 Sep  | ML Model Quality| [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)<br>[Model Cards for Model Reporting](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596?casa_token=18FG8CITJy4AAAAA:ioP5uVyMqxHYfdMum0ZFqzftEHa9_ddDXLHNau9X_ZiGCrzHXE4DVSpRDK6mARu6iEywkrEaO_cT) | Project M1 release (Due Sep 29th) |
 |4	|  12 Sep  | From Model to System | [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)<br>[Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)<br> TIS book: Chapter 4 Why Systems Suprise Us | | Project Composition Finalized |
