@@ -65,7 +65,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 | 2 | 5 Sep | ML Model Quality | | |
 | 3 | 12 Sep | From Model to System | | |
 | 4 | 19 Sep | Data Management | | |
-| 5 | 26 Sep | Human Need and Requirements | | git|
+| 5 | 26 Sep | Human Need and Requirements | | |
 | 6 | 3 Oct | Contestability | | |
 | 7 | 10 Oct | Team and Collaboration | | |
 | 8 | Study Break | | | |
